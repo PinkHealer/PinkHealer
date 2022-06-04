@@ -1,0 +1,76 @@
+name: tarea
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  flutter_svg: ^1.0.3
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/tarea/assets/images/whatsappimage20220520at11251.png
+    - packages/tarea/assets/images/viniciusamnxamanoalpekp29eysunsplash1.png
+    - packages/tarea/assets/images/rectangle3.png
+    - packages/tarea/assets/images/rectangle2.png
+    - packages/tarea/assets/images/rectangle12.svg
+    - packages/tarea/assets/images/fefc94d3de75439bacb1d9d5f02a2af8rw1920.png
+    - packages/tarea/assets/images/group.svg
+    - packages/tarea/assets/images/subtract.png
+    - packages/tarea/assets/images/star.svg
+    - packages/tarea/assets/images/background.svg
+    - packages/tarea/assets/images/key.svg
+    - packages/tarea/assets/images/icon.svg
+    - packages/tarea/assets/images/backspace.svg
+    - packages/tarea/assets/images/shift.svg
+    - packages/tarea/assets/images/shape.svg
+    - packages/tarea/assets/images/micicon.png
+    - packages/tarea/assets/images/appstoreicon.png
+    - packages/tarea/assets/images/drawicon.png
+    - packages/tarea/assets/images/cameraicon.png
+    - packages/tarea/assets/images/rectangle7.svg
+    - packages/tarea/assets/images/image4.png
+    - packages/tarea/assets/images/vector1.svg
+    - packages/tarea/assets/images/uibarshomeindicatorhomeindicatoronlight.svg
+    - packages/tarea/assets/images/vector.svg
+    - packages/tarea/assets/images/calendaralt1.svg
+    - packages/tarea/assets/images/commentsalt1.svg
+    - packages/tarea/assets/images/usercircle1.svg
+    - packages/tarea/assets/images/ellipse3.png
+    - packages/tarea/assets/images/ellipse1.png
+    - packages/tarea/assets/images/ellipse2.png
+    - packages/tarea/assets/images/navigation24px11.svg
+    - packages/tarea/assets/images/ellipse5.png
+    - packages/tarea/assets/images/ellipse4.png
+    - packages/tarea/assets/images/rectangle21.png
+    - packages/tarea/assets/images/calendaraltregular1.svg
+    - packages/tarea/assets/images/background.png
+    - packages/tarea/assets/images/3.png
+    - packages/tarea/assets/images/2.png
+    - packages/tarea/assets/images/1.png
+    - packages/tarea/assets/images/no_name_1.svg
+    - packages/tarea/assets/images/whatsappimage20220520at10342.png
+    - packages/tarea/assets/images/150.svg
+    - packages/tarea/assets/images/group7.svg
+    - packages/tarea/assets/images/image5.png
+    - packages/tarea/assets/images/group8.svg
+    - packages/tarea/assets/images/whatsappimage20220520at10341.png
+    - packages/tarea/assets/images/ellipse9.png
+    - packages/tarea/assets/images/ellipse10.svg
+    - packages/tarea/assets/images/rectangle3.svg
+    - packages/tarea/assets/images/rectangle5.svg
+    - packages/tarea/assets/images/rectangle8.svg
+    - packages/tarea/assets/images/rectangle9.svg
+    - packages/tarea/assets/images/rectangle10.svg
+    - packages/tarea/assets/images/rectangle4.svg
+    - packages/tarea/assets/images/rectangle6.svg
+    - packages/tarea/assets/images/lamp1.svg
